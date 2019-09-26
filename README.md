@@ -1,2 +1,1 @@
-# Image-Ehancement-Using-Improved-Guided-Filter-and-Retinex-Algorithm
-# Image-Ehancement-Using-Improved-Guided-Filter-and-Retinex-Algorithm
+Here it is a image enhancement Technique that will take different kind of noisy images such as Gausssian Noise,Salt and Peerper Noise, Shot Noise, Blurry Images and Remove the noise.Then it will enhance the image quality
